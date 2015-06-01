@@ -16,4 +16,8 @@ Repository for versioning the **Java** projects and labs created during the trai
 	* [Git](http://git-scm.com/)
 	* [Github](https://github.com/)
 	* [Eclipse](https://www.eclipse.org/)
+
+* **Day 3** (2015-06-01):
+  * Thinking in Objects.
+  * Objects attributes and behaviors.
 	
