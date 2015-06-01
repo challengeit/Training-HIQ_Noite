@@ -20,4 +20,7 @@ Repository for versioning the **Java** projects and labs created during the trai
 * **Day 3** (2015-06-01):
   * Thinking in Objects.
   * Objects attributes and behaviors.
+  * Java - *main* method.
+  * Classes and objects. Getters and Setters.
+  * *toString* method.
 	
