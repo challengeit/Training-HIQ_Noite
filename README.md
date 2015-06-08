@@ -22,5 +22,13 @@ Repository for versioning the **Java** projects and labs created during the trai
   * Objects attributes and behaviors.
   * Java - *main* method.
   * Classes and objects. Getters and Setters.
-  * *toString* method.
-	
+  * *toString* method
+
+* **Day 4** (2015-06-03):
+  * Pre and Pos increments.
+  * Exercises.
+
+* **Day 05** (2015-06-08):
+  * Primitive Types.
+  * Casts and promotions.
+  * Exercises.
