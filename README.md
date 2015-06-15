@@ -32,7 +32,7 @@ Repository for versioning the **Java** projects and labs created during the trai
   * Primitive Types.
   * Casts and promotions.
   * Exercises.
-  * 
+
 * **Day 6** (2015-06-15):
   * Thinking in Objects Review.
   * Championship Exercise.
