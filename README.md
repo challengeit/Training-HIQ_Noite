@@ -28,7 +28,11 @@ Repository for versioning the **Java** projects and labs created during the trai
   * Pre and Pos increments.
   * Exercises.
 
-* **Day 05** (2015-06-08):
+* **Day 5** (2015-06-08):
   * Primitive Types.
   * Casts and promotions.
   * Exercises.
+
+* **Day 6** (2015-06-15):
+  * Thinking in Objects Review.
+  * Championship Exercise.
