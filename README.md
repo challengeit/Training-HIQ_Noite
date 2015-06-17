@@ -34,5 +34,9 @@ Repository for versioning the **Java** projects and labs created during the trai
   * Exercises.
 
 * **Day 6** (2015-06-15):
-  * Thinking in Objects Review.
+  * Thinking in Objects Review. 
   * Championship Exercise.
+
+* **Day 7** (2015-06-17):
+  * Arrays and ArrayList.
+  * Exercises about Arrays and Arraylists.
