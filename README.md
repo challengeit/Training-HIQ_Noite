@@ -38,5 +38,9 @@ Repository for versioning the **Java** projects and labs created during the trai
   * Championship Exercise.
 
 * **Day 7** (2015-06-17):
-  * Arrays and ArrayList.
+  * Arrays and ArrayList. 
   * Exercises about Arrays and Arraylists.
+
+* **Day 8** (2015-06-22):
+   * Loops contructs and Switch.
+   * Method overloading, constructors and encapsulation.
