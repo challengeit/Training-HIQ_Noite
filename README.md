@@ -44,3 +44,14 @@ Repository for versioning the **Java** projects and labs created during the trai
 * **Day 8** (2015-06-22):
    * Loops contructs and Switch.
    * Method overloading, constructors and encapsulation.
+
+* **Day 9** (2015-06-24):
+   * Java Inheritance.
+   * Abstract Classes.
+   * Java Interfaces.
+   * Handling Errors - Exception and Errors.
+   
+* **Day 10** (2015-06-29):
+   * Continuation of Handling Errors.
+   * Example of Runtime Exceptions and Errors.
+   * Exercises about Inheritance and Exceptions.
