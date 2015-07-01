@@ -61,3 +61,6 @@ Repository for versioning the **Java** projects and labs created during the trai
    * Continuation of Handling Errors.
    * Example of Runtime Exceptions and Errors.
    * Exercises about Inheritance and Exceptions.
+
+* **Day 11** (2015-07-01):
+   * Certification exam (1 - 19 question).

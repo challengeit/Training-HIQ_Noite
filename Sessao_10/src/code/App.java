@@ -14,5 +14,5 @@ class Base {
 }
 
 class Base2 extends Base {
-	public byte getValue() { return 2; }
+	public short getValue() { return 2; }
 }

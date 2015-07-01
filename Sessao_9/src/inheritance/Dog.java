@@ -6,6 +6,7 @@ public class Dog extends Animal
 	public Dog(String name) 
 	{
 		super(name, 4, true);
+		System.out.println("ctor");
 	}
 	
 	public Dog()
@@ -13,11 +14,15 @@ public class Dog extends Animal
 		this("Bobby");
 	}
 	
+	{
+		System.out.println("Entrei");
+	}
+	
 	@Override
 	public String getName() {
 		return "Dog: " + super.getName();
 	}
-
+	
 	@Override
 	public boolean equals(Object obj) 
 	{
