@@ -64,3 +64,10 @@ Repository for versioning the **Java** projects and labs created during the trai
 
 * **Day 11** (2015-07-01):
    * Certification exam (1 - 19 question).
+  
+* **Day 12** (2015-07-06):
+   * Exam.
+   * Operators precedence.
+  
+* **Day 13** (2015-07-08):
+   * Last exam revision.
