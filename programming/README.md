@@ -31,3 +31,6 @@
   * Oracle Lesson 7 - Generics and Collections.
   * Generics' wildcards and restrictions.
   * Exercises.
+  * Some pages with important concepts about Collections:
+    * [Object Ordering](https://docs.oracle.com/javase/tutorial/collections/interfaces/order.html)
+    * [Collections Overview](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html)
