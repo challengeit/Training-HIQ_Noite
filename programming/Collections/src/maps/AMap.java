@@ -17,10 +17,11 @@ public class AMap
 		/**
 		 * Example Case
 		 * ------------
-		 *
+		 */
 		numbers.put(4, null);
 		numbers.put(null, "Quatro");
 		numbers.put(null, null);
+		System.out.println(numbers.get(5));
 		//*/
 	}
 }

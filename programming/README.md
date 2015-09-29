@@ -34,3 +34,12 @@
   * Some pages with important concepts about Collections:
     * [Object Ordering](https://docs.oracle.com/javase/tutorial/collections/interfaces/order.html)
     * [Collections Overview](https://docs.oracle.com/javase/8/docs/technotes/guides/collections/overview.html)
+
+* **Day 7** (2015-09-23):
+  * Exercises about Generics and Collections.
+  * Oracle Lesson 9 - Exceptions and Assertions.
+  * Exceptions examples.
+
+* **Day 8** (2015-09-28):
+  * Oracle Lesson 8 - Strings.
+  * Introduction to Regular Expressions.
