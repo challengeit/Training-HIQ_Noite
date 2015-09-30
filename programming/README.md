@@ -43,3 +43,11 @@
 * **Day 8** (2015-09-28):
   * Oracle Lesson 8 - Strings.
   * Introduction to Regular Expressions.
+  * Documentation about Patterns and Formatters:
+    * [Patterns](http://docs.oracle.com/javase/7/docs/api/java/util/regex/Pattern.html)
+    * [Formatter](http://docs.oracle.com/javase/7/docs/api/java/util/Formatter.html)
+
+* **Day 9** (2015-09-30):
+  * Regular Expressions Examples.
+  * Exercise to regex a 24 Hour time format.
+  * Oracle Lesson 10 - Java IO Fundamentals.
