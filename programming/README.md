@@ -51,3 +51,15 @@
   * Regular Expressions Examples.
   * Exercise to regex a 24 Hour time format.
   * Oracle Lesson 10 - Java IO Fundamentals.
+
+* **Day 10** (2015-09-05):
+  * Oracle Lesson 11 - Java NIO.
+  * Exercises.
+
+* **Day 11** (2015-09-07):
+  * Oracle Lesson 12 - Threads.
+
+* **Day 12** (2015-09-12):
+  * Oracle Lesson 13 - Concurrency.
+  * Exercises.
+
