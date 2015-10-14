@@ -64,6 +64,7 @@
   * Exercises.
 
 * **Day 13** (2015-09-14):
+  * Framework ForkJoin.
   * Oracle Lesson 14 - JDBC.
   * Documentation about RowSets:
     * [RowSet](https://docs.oracle.com/javase/tutorial/jdbc/basics/jdbcrowset.html)
