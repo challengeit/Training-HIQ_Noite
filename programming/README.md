@@ -63,3 +63,11 @@
   * Oracle Lesson 13 - Concurrency.
   * Exercises.
 
+* **Day 13** (2015-09-14):
+  * Oracle Lesson 14 - JDBC.
+  * Documentation about RowSets:
+    * [RowSet](https://docs.oracle.com/javase/tutorial/jdbc/basics/jdbcrowset.html)
+  * Oracle Lesson 15 - Localization.
+  * Design Patterns - DAO, Factory and Composite.
+    * [DAO](http://www.oracle.com/technetwork/java/dataaccessobject-138824.html)
+  * Exercises.
