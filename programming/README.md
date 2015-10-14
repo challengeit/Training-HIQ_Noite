@@ -61,6 +61,8 @@
 
 * **Day 12** (2015-09-12):
   * Oracle Lesson 13 - Concurrency.
+  * Documentation:
+    * [Brian Goetz](http://www.amazon.com/gp/product/0321349601?gwSec=1&redirect=true&ref_=s9_simh_gw_p14_d2_i1)
   * Exercises.
 
 * **Day 13** (2015-09-14):
@@ -71,4 +73,6 @@
   * Oracle Lesson 15 - Localization.
   * Design Patterns - DAO, Factory and Composite.
     * [DAO](http://www.oracle.com/technetwork/java/dataaccessobject-138824.html)
+    * [Martin Fowler](http://martinfowler.com/eaaCatalog/)
+    * [Design Patterns Bible](http://www.amazon.com/gp/product/0201633612?keywords=eric%20gamma&qid=1444866935&ref_=sr_1_1&sr=8-1)
   * Exercises.
