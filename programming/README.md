@@ -52,20 +52,20 @@
   * Exercise to regex a 24 Hour time format.
   * Oracle Lesson 10 - Java IO Fundamentals.
 
-* **Day 10** (2015-09-05):
+* **Day 10** (2015-10-05):
   * Oracle Lesson 11 - Java NIO.
   * Exercises.
 
-* **Day 11** (2015-09-07):
+* **Day 11** (2015-10-07):
   * Oracle Lesson 12 - Threads.
 
-* **Day 12** (2015-09-12):
+* **Day 12** (2015-10-12):
   * Oracle Lesson 13 - Concurrency.
   * Documentation:
     * [Brian Goetz](http://www.amazon.com/gp/product/0321349601?gwSec=1&redirect=true&ref_=s9_simh_gw_p14_d2_i1)
   * Exercises.
 
-* **Day 13** (2015-09-14):
+* **Day 13** (2015-10-14):
   * Framework ForkJoin.
   * Oracle Lesson 14 - JDBC.
   * Documentation about RowSets:
